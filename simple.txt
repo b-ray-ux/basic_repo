@@ -1,0 +1,1 @@
+After I made the repo on Github and local repository, I added an index.html and styles.css sheet. I made two different commits to show the small changes I made. I will also make a third commit to add this simple.txt
